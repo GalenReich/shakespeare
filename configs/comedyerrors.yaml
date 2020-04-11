@@ -1,0 +1,11 @@
+{
+  players:
+    {
+      "red": ["DROMIOSYRACUSE", "BALTHAZAR", "Gaoler"],
+      "orange": ["ADRIANA", "Courtezan"],
+      "green": ["ANTIPHOLUSSYRACUSE", "SecondMerchant", "PINCH", "LUCE"],
+      "blue": ["ANTIPHOLUSEPHESUS", "AEMILIA", "FirstMerchant"],
+      "yellow": ["DROMIOEPHESUS", "SOLINUS", "Servant", "Officer"],
+      "slate": ["AEGEON", "LUCIANA", "ANGELO"],
+    },
+}
